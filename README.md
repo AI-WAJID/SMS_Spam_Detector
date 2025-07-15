@@ -1,4 +1,4 @@
-# 📨 SMS Spam Detector:
+# 📨 SMS Spam Detector : https://sms-spam-detector-ubnz.onrender.com 
 
 A robust SMS spam classification system built with **Streamlit**, **TF–IDF**, and **Multinomial Naive Bayes**. This repository includes everything needed to train, deploy, and run the model.
 
